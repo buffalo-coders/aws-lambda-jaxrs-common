@@ -37,7 +37,7 @@ display-updates:
 
 .PHONY: fix
 fix:
-	${MAKE} fix-crlf fix-license fix-notices fix-pom
+	${MAKE} fix-crlf fix-license fix-notices
 
 .PHONY: fix-crlf
 fix-crlf: no-git-changes
@@ -53,11 +53,6 @@ fix-license: no-git-changes
 fix-notices: no-git-changes
 	@mvn --threads 1 --activate-profiles fix-notices clean
 	-@git commit -a -m 'make fix-notices'
-
-.PHONY: fix-pom
-fix-pom: no-git-changes
-	@mvn --threads 1 --activate-profiles fix-pom clean
-	-@git commit -a -m 'make fix-pom'
 
 .PHONY: gpg-init
 gpg-init:
