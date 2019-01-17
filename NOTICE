@@ -1,0 +1,56 @@
+Licensed under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on
+an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License.
+
+This project includes:
+  aopalliance version 1.0 repackaged as a module under CDDL + GPLv2 with classpath exception
+  Apache Commons Codec under Apache License, Version 2.0
+  Apache Commons FileUpload under Apache License, Version 2.0
+  Apache Commons Logging under The Apache Software License, Version 2.0
+  Apache HttpClient under Apache License, Version 2.0
+  Apache HttpClient Mime under Apache License, Version 2.0
+  Apache HttpCore under Apache License, Version 2.0
+  AWS Lambda Java Core Library under Apache License, Version 2.0
+  AWS Serverless Java container support - Core under The Apache Software License, Version 2.0
+  AWS Serverless Java container support - Jersey implementation under The Apache Software License, Version 2.0
+  Bean Validation API under The Apache Software License, Version 2.0
+  common under Apache License, Version 2.0
+  Commons IO under The Apache Software License, Version 2.0
+  HK2 API module under CDDL + GPLv2 with classpath exception
+  HK2 Implementation Utilities under CDDL + GPLv2 with classpath exception
+  Jackson module: Afterburner under The Apache Software License, Version 2.0
+  Jackson module: JAXB Annotations under The Apache Software License, Version 2.0
+  Jackson-annotations under The Apache Software License, Version 2.0
+  Jackson-core under The Apache Software License, Version 2.0
+  jackson-databind under The Apache Software License, Version 2.0
+  Java Servlet API under CDDL + GPLv2 with classpath exception
+  Javassist under MPL 1.1 or LGPL 2.1 or Apache License 2.0
+  javax.annotation API under CDDL + GPLv2 with classpath exception
+  javax.inject:1 as OSGi bundle under CDDL + GPLv2 with classpath exception
+  javax.ws.rs-api under CDDL 1.1 or GPL2 w/ CPE
+  JCL 1.2 implemented over SLF4J under MIT License
+  jersey-core-client under CDDL 1.1 or GPL2 w/ CPE or Apache License, 2.0 or Public Domain or Modified BSD
+  jersey-core-common under Common Development and Distribution License (CDDL), Version 1.1 or The GNU General Public License (GPL), Version 2, With Classpath Exception or Apache License, 2.0 or Public Domain
+  jersey-core-server under Common Development and Distribution License (CDDL), Version 1.1 or The GNU General Public License (GPL), Version 2, With Classpath Exception or Apache License, 2.0 or Modified BSD
+  jersey-ext-entity-filtering under CDDL 1.1 or GPL2 w/ CPE or Apache License, 2.0 or Public Domain or Modified BSD
+  jersey-inject-hk2 under CDDL 1.1 or GPL2 w/ CPE or Apache License, 2.0 or Public Domain or Modified BSD
+  jersey-media-jaxb under CDDL 1.1 or GPL2 w/ CPE or Apache License, 2.0 or Public Domain or Modified BSD
+  jersey-media-json-jackson under Common Development and Distribution License (CDDL), Version 1.1 or The GNU General Public License (GPL), Version 2, With Classpath Exception or Apache License, 2.0
+  lambda-logging under Apache License, Version 2.0
+  Log4j Implemented Over SLF4J under Apache Software Licenses
+  Logback Classic Module under Eclipse Public License - v 1.0 or GNU Lesser General Public License
+  Logback Core Module under Eclipse Public License - v 1.0 or GNU Lesser General Public License
+  OSGi LogService implemented over SLF4J under MIT License
+  OSGi resource locator bundle - used by various API providers that rely on META-INF/services mechanism to locate providers. under CDDL + GPLv2 with classpath exception
+  ServiceLocator Default Implementation under CDDL + GPLv2 with classpath exception
+  SLF4J API Module under MIT License
+
